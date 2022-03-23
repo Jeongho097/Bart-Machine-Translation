@@ -20,5 +20,5 @@
 
 ![image](https://user-images.githubusercontent.com/89580953/159667570-336c61d2-3356-4522-b49d-1681d8b94a65.png)
 
-   - 그렇기 
+    - 그렇기 
   
