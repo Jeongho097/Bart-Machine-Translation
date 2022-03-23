@@ -24,15 +24,16 @@
   - 길이가 짧은 문장의 번역은 괜찮은 것으로 보이나 길이가 긴 문장의 번역은 아래의 사진과 같이 잘려서 출력이 되는 경우가 발생함
   -  그렇기 때문에 max_length를 설정함으로써 최적의 max_length를 확인
 
-* 예시
+예시
 
 ![image](https://user-images.githubusercontent.com/89580953/159667570-336c61d2-3356-4522-b49d-1681d8b94a65.png)
 
-- Max Lengtg 실험
+Max Lengtg 실험
 
 
 ![0length_com](https://user-images.githubusercontent.com/89580953/159668918-b7b5982c-7416-410e-9be5-5ca9974b4a26.png)
 
-
-
--
+- Beam Search
+  - 기본적으로 번역은 Beam search를 사용하여 수행함
+  - 최적의 해를 구하기 위해 가장 높은 확률의 시퀀스를 반환함
+  - K의 값을 크게 가져간다면 최적의 해를 반환할 확률은 올라가지만 그 만큼 시간이 오래 걸리기 때문에 최적의 k 값을 찾는 것이 중요
