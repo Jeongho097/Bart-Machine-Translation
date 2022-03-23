@@ -15,10 +15,13 @@
       - Batch Size는 128로 
 - Max Length 설정
   - 길이가 짧은 문장의 번역은 괜찮은 것으로 보이나 길이가 긴 문장의 번역은 아래의 사진과 같이 잘려서 출력이 되는 경우가 발생함
+  -  그렇기 때문에 max_length를 설정함으로써 최적의 max_length를 확인
 
 예시
 
 ![image](https://user-images.githubusercontent.com/89580953/159667570-336c61d2-3356-4522-b49d-1681d8b94a65.png)
 
-    - 그렇기 
-  
+Max Lengtg 실험
+![0length_com](https://user-images.githubusercontent.com/89580953/159668501-215b1f06-7fe8-4f1f-b5de-2763db7c7526.png)
+
+-
