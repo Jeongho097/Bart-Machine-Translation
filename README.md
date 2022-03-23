@@ -39,4 +39,5 @@ Max Lengtg 실험
   - K의 값을 크게 가져간다면 최적의 해를 반환할 확률은 올라가지만 그 만큼 시간이 오래 걸리기 때문에 최적의 k 값을 찾는 것이 중요
 
 K = 5인 경우 Beam Search의 예시
+
 ![beam_search](https://user-images.githubusercontent.com/89580953/159671631-a4161a5d-e06e-41d5-bde1-de9006454db7.png)
