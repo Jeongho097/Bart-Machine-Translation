@@ -16,7 +16,7 @@
   - 이후 Learining Rate 별로 Loss 깂과 성능 지표인 조화 평균을 비교함
     - Loss의 경우 Learning Rate가 빠르게 떨어지는 것을 확인가능
     - Loss 값이 낮을수록 조화평균의 값이 높은것은 아니라고 판단 
-    - Learning Rate의 값이 10**-4
+    - 따라서 Loss가 충분히 낮고 조화평균의 점수가 가장 높은 Learning Rate의 값이 1e-4을 설정 
    ![image31](https://user-images.githubusercontent.com/89580953/159669713-9cb599b3-13ad-41c3-b1cd-51f1ad7388fb.png)
    ![image33](https://user-images.githubusercontent.com/89580953/159669730-8263e4d0-bfd1-452f-9972-f7d26191359c.png)
 
