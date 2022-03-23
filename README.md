@@ -23,7 +23,7 @@
 
 - Max Lengtg 실험
 
-![beam_search](https://user-images.githubusercontent.com/89580953/159668853-2ea6545d-13f8-4efa-be4f-9318a6ebd74d.png)
+![0length_com](https://user-images.githubusercontent.com/89580953/159668918-b7b5982c-7416-410e-9be5-5ca9974b4a26.png)
 
 
 
