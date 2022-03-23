@@ -40,4 +40,5 @@ Max Lengtg 실험
 
 K = 5인 경우 Beam Search의 예시 (참고 : [Beam Search](https://opennmt.net/OpenNMT/translation/beam_search/, "Beam Search link"))
 
+
 ![beam_search](https://user-images.githubusercontent.com/89580953/159671631-a4161a5d-e06e-41d5-bde1-de9006454db7.png)
