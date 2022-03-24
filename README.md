@@ -37,6 +37,10 @@ Max Lengtg 실험
   - 기본적으로 번역은 Beam search를 사용하여 수행함
   - 최적의 해를 구하기 위해 가장 높은 확률의 시퀀스를 반환함
   - K의 값을 크게 가져간다면 최적의 해를 반환할 확률은 올라가지만 그 만큼 시간이 오래 걸리기 때문에 최적의 k 값을 찾는 것이 중요
+  
+![0beams_com](https://user-images.githubusercontent.com/89580953/159856589-c43e42d9-d5be-4936-946d-9c7a82a9df0b.png)
+
+
 
 K = 5인 경우 Beam Search의 예시 (참고 : [Beam Search](https://opennmt.net/OpenNMT/translation/beam_search/))
 
