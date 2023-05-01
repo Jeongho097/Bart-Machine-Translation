@@ -8,6 +8,7 @@
 - Bart를 사용한 모델 성능 향상
   - Huggingface에 등록되어 있는 'gogamza/kobart-base-v1'를 사용함
   - 다른 다국어 모델의 경우 존재하지 않는다는 가정하에 BART만을 이용한 모델 성능 향상을 목표로 프로젝트를 진행함
+  - 부족한 데이터 문제를 해결하기 위해 역변역 기법을 사용함
 - Learning Rate의 설정
   - 하나의 모델로 성능을 최대한 올려야하기 때문에 효과적인 하이퍼 파라미터를 찾는 것이 중요
   - Learning Rate를 제외한 Epoch과 Batch Size를 고정 시키고 실험을 진행
