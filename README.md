@@ -33,7 +33,7 @@
 Max Lengtg 실험
 
 
-![0length_com](https://user-images.githubusercontent.com/89580953/159668918-b7b5982c-7416-410e-9be5-5ca9974b4a26.png)
+![0length_com](https://user-images.githubusercontent.com/89580953/235447518-98f24974-8952-4077-afc6-d5784b3b3578.png)
 
 
 
@@ -42,7 +42,7 @@ Max Lengtg 실험
   - 최적의 해를 구하기 위해 가장 높은 확률의 시퀀스를 반환함
   - K의 값을 크게 가져간다면 최적의 해를 반환할 확률은 올라가지만 그 만큼 시간이 오래 걸리기 때문에 최적의 k 값을 찾는 것이 중요
   
-![0beams_com](https://user-images.githubusercontent.com/89580953/159856589-c43e42d9-d5be-4936-946d-9c7a82a9df0b.png)
+![0beams_com](https://user-images.githubusercontent.com/89580953/235447540-b65ae285-ae35-424c-988a-a81720ae6e70.png)
 
 
 
