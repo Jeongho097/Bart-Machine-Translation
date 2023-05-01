@@ -34,6 +34,9 @@ Max Lengtg 실험
 
 ![0length_com](https://user-images.githubusercontent.com/89580953/159668918-b7b5982c-7416-410e-9be5-5ca9974b4a26.png)
 
+![back translation](https://user-images.githubusercontent.com/89580953/235445932-0682c74a-961e-4797-8fd7-185a3009fd66.png)
+
+
 - Beam Search
   - 기본적으로 번역은 Beam search를 사용하여 수행함
   - 최적의 해를 구하기 위해 가장 높은 확률의 시퀀스를 반환함
