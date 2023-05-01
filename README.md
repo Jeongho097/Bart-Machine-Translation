@@ -34,7 +34,8 @@ Max Lengtg 실험
 
 ![0length_com](https://user-images.githubusercontent.com/89580953/159668918-b7b5982c-7416-410e-9be5-5ca9974b4a26.png)
 
-![back translation](https://user-images.githubusercontent.com/89580953/235445932-0682c74a-961e-4797-8fd7-185a3009fd66.png)
+
+![back translation](https://user-images.githubusercontent.com/89580953/235446519-b88d1e31-875a-40a6-9474-992508e9d679.png)
 
 
 - Beam Search
