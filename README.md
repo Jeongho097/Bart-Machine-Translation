@@ -20,7 +20,7 @@
     - 따라서 Loss가 충분히 낮고 조화평균의 점수가 가장 높은 Learning Rate의 값이 1e-4을 설정 
    ![image31](https://user-images.githubusercontent.com/89580953/159669713-9cb599b3-13ad-41c3-b1cd-51f1ad7388fb.png)
    ![image33](https://user-images.githubusercontent.com/89580953/159669730-8263e4d0-bfd1-452f-9972-f7d26191359c.png)
-   ![0bleu_com](https://user-images.githubusercontent.com/89580953/235447219-9b0395b0-fbd9-44fe-ab7a-a11327884879.png)
+
 
 - Max Length 설정
   - 길이가 짧은 문장의 번역은 괜찮은 것으로 보이나 길이가 긴 문장의 번역은 아래의 사진과 같이 잘려서 출력이 되는 경우가 발생함
